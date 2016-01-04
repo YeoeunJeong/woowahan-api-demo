@@ -10,3 +10,4 @@ Documentation:
       - 'bin/**/*'
       - 'db/**/*'
       - 'config/**/*'
+      - 'vendor/**/*'
