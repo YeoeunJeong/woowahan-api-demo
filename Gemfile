@@ -42,9 +42,7 @@ group :development do
   # running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 
-  gem 'guard'
-  gem 'guard-minitest'
-  gem 'guard-rubocop', require: false
+  gem 'rubocop', require: false
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
